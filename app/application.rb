@@ -6,6 +6,7 @@ class Application
     
 		case @request.path
 			when "/" then Rack::Response.new(render("index.html.haml"))
+			when "/books" then Rack::Response.new(render("books.html.haml"))
 		end
 	end
 
