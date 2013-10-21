@@ -1,3 +1,3 @@
-require ::File.expand_path('hello', File.dirname(__FILE__))
+require ::File.expand_path('app/application', File.dirname(__FILE__))
 
 run Hello
