@@ -4,7 +4,7 @@
     %title Amazon Book Search
   %body
     %h2 Search for Books
-    %form{action: "#", method: "post"}
+    %form{action: "/books", method: "post"}
       %label{ for: "book" } Book Title
       %input{ name: "book_title", id: "book" }
       %input{ type: "submit", name: "search_button", value: "Search" }
