@@ -1,0 +1,1440 @@
+<?xml version="1.0"?>
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+  <Items>
+    <Request>
+      <IsValid>True</IsValid>
+      <ItemSearchRequest>
+        <Keywords>game of thrones</Keywords>
+        <ResponseGroup>ItemAttributes</ResponseGroup>
+        <ResponseGroup>Images</ResponseGroup>
+        <SearchIndex>Books</SearchIndex>
+      </ItemSearchRequest>
+    </Request>
+    <TotalResults>1280</TotalResults>
+    <TotalPages>128</TotalPages>
+    <MoreSearchResultsUrl>http://www.amazon.com/gp/redirect.html?camp=2025&amp;creative=386001&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3Dgame%2Bof%2Bthrones%26url%3Dsearch-alias%253Dstripbooks&amp;linkCode=xm2&amp;tag=dpsimmons-20&amp;SubscriptionId=AKIAISKMDJ5IH3UVK4OQ</MoreSearchResultsUrl>
+    <Item>
+      <ASIN>0345529057</ASIN>
+      <DetailPageURL>http://www.amazon.com/Song-Ice-Fire-Vols-Thrones/dp/0345529057%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0345529057</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>http://www.amazon.com/Song-Ice-Fire-Vols-Thrones/dp/tech-data/0345529057%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345529057</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0345529057%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345529057</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0345529057%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345529057</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0345529057%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345529057</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>http://www.amazon.com/gp/pdp/taf/0345529057%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345529057</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>http://www.amazon.com/review/product/0345529057%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345529057</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>http://www.amazon.com/gp/offer-listing/0345529057%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345529057</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/51rzESBFPeL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">50</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/51rzESBFPeL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">106</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/51rzESBFPeL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">331</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzESBFPeL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">20</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzESBFPeL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">50</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzESBFPeL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">50</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzESBFPeL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">73</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzESBFPeL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">106</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzESBFPeL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">331</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzXT-PMlL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">28</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzXT-PMlL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">69</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzXT-PMlL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">69</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzXT-PMlL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">101</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzXT-PMlL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">148</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/51rzXT-PMlL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">461</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>George R.R. Martin</Author>
+        <Binding>Mass Market Paperback</Binding>
+        <EAN>9780345529053</EAN>
+        <EANList>
+          <EANListElement>3520700000515</EANListElement>
+          <EANListElement>9780345529053</EANListElement>
+        </EANList>
+        <Feature>4 Book Boxed Set</Feature>
+        <Feature>A GAME OF THRONES</Feature>
+        <Feature>A CLASH OF KINGS</Feature>
+        <Feature>A STORM OF SWORDS</Feature>
+        <Feature>A FEAST FOR CROWS</Feature>
+        <Format>Print</Format>
+        <ISBN>0345529057</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">701</Height>
+          <Length Units="hundredths-inches">413</Length>
+          <Weight Units="hundredths-pounds">440</Weight>
+          <Width Units="hundredths-inches">449</Width>
+        </ItemDimensions>
+        <Label>Bantam</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>3596</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$35.96</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Bantam</Manufacturer>
+        <NumberOfItems>4</NumberOfItems>
+        <NumberOfPages>3264</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">425</Height>
+          <Length Units="hundredths-inches">709</Length>
+          <Weight Units="hundredths-pounds">428</Weight>
+          <Width Units="hundredths-inches">646</Width>
+        </PackageDimensions>
+        <PackageQuantity>1</PackageQuantity>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2011-03-22</PublicationDate>
+        <Publisher>Bantam</Publisher>
+        <ReleaseDate>2011-03-22</ReleaseDate>
+        <SKU>749780345529053</SKU>
+        <Studio>Bantam</Studio>
+        <Title>A Song of Ice and Fire, (4 Vols.): A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast for Crows</Title>
+        <TradeInValue>
+          <Amount>338</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$3.38</FormattedPrice>
+        </TradeInValue>
+      </ItemAttributes>
+    </Item>
+    <Item>
+      <ASIN>0553582011</ASIN>
+      <DetailPageURL>http://www.amazon.com/Dance-Dragons-Song-Fire-Book/dp/0553582011%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0553582011</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>http://www.amazon.com/Dance-Dragons-Song-Fire-Book/dp/tech-data/0553582011%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553582011</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0553582011%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553582011</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0553582011%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553582011</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0553582011%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553582011</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>http://www.amazon.com/gp/pdp/taf/0553582011%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553582011</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>http://www.amazon.com/review/product/0553582011%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553582011</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>http://www.amazon.com/gp/offer-listing/0553582011%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553582011</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/513ahFV1t0L._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">45</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/513ahFV1t0L._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">97</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/513ahFV1t0L.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">303</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/513ahFV1t0L._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">18</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/513ahFV1t0L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">45</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/513ahFV1t0L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">45</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/513ahFV1t0L._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">67</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/513ahFV1t0L._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">97</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/513ahFV1t0L.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">303</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>George R.R. Martin</Author>
+        <Binding>Mass Market Paperback</Binding>
+        <EAN>9780553582017</EAN>
+        <EANList>
+          <EANListElement>9780553582017</EANListElement>
+        </EANList>
+        <Edition>Reprint</Edition>
+        <ISBN>0553582011</ISBN>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">0</Height>
+          <Length Units="hundredths-inches">0</Length>
+          <Weight Units="hundredths-pounds">108</Weight>
+          <Width Units="hundredths-inches">0</Width>
+        </ItemDimensions>
+        <Label>Bantam</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>999</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$9.99</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Bantam</Manufacturer>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>1152</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">170</Height>
+          <Length Units="hundredths-inches">660</Length>
+          <Weight Units="hundredths-pounds">106</Weight>
+          <Width Units="hundredths-inches">430</Width>
+        </PackageDimensions>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2013-10-29</PublicationDate>
+        <Publisher>Bantam</Publisher>
+        <ReleaseDate>2013-10-29</ReleaseDate>
+        <Studio>Bantam</Studio>
+        <Title>A Dance with Dragons: A Song of Ice and Fire: Book Five</Title>
+      </ItemAttributes>
+    </Item>
+    <Item>
+      <ASIN>0553593714</ASIN>
+      <DetailPageURL>http://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553593714%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0553593714</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>http://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/tech-data/0553593714%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553593714</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0553593714%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553593714</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0553593714%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553593714</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0553593714%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553593714</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>http://www.amazon.com/gp/pdp/taf/0553593714%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553593714</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>http://www.amazon.com/review/product/0553593714%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553593714</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>http://www.amazon.com/gp/offer-listing/0553593714%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0553593714</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/5163N91r6lL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">46</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/5163N91r6lL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">97</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/5163N91r6lL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">304</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/5163N91r6lL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">18</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/5163N91r6lL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">46</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/5163N91r6lL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">46</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/5163N91r6lL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">67</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/5163N91r6lL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">97</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/5163N91r6lL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">304</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>George R.R. Martin</Author>
+        <Binding>Mass Market Paperback</Binding>
+        <EAN>9780553593716</EAN>
+        <EANList>
+          <EANListElement>9780553593716</EANListElement>
+        </EANList>
+        <Edition>Mti Rep</Edition>
+        <ISBN>0553593714</ISBN>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">669</Height>
+          <Length Units="hundredths-inches">169</Length>
+          <Weight Units="hundredths-pounds">93</Weight>
+          <Width Units="hundredths-inches">406</Width>
+        </ItemDimensions>
+        <Label>Bantam</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>999</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$9.99</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Bantam</Manufacturer>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>864</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">170</Height>
+          <Length Units="hundredths-inches">690</Length>
+          <Weight Units="hundredths-pounds">75</Weight>
+          <Width Units="hundredths-inches">420</Width>
+        </PackageDimensions>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2011-03-22</PublicationDate>
+        <Publisher>Bantam</Publisher>
+        <ReleaseDate>2011-03-22</ReleaseDate>
+        <SKU>NU-LBR-00900286</SKU>
+        <Studio>Bantam</Studio>
+        <Title>A Game of Thrones (A Song of Ice and Fire, Book 1)</Title>
+      </ItemAttributes>
+    </Item>
+    <Item>
+      <ASIN>0345535529</ASIN>
+      <DetailPageURL>http://www.amazon.com/George-Martins-Thrones-5-Book-Boxed/dp/0345535529%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0345535529</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>http://www.amazon.com/George-Martins-Thrones-5-Book-Boxed/dp/tech-data/0345535529%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535529</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0345535529%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535529</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0345535529%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535529</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0345535529%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535529</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>http://www.amazon.com/gp/pdp/taf/0345535529%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535529</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>http://www.amazon.com/review/product/0345535529%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535529</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>http://www.amazon.com/gp/offer-listing/0345535529%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535529</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/61Y-vYqyqYL._SL75_.jpg</URL>
+        <Height Units="pixels">72</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/61Y-vYqyqYL._SL160_.jpg</URL>
+        <Height Units="pixels">154</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/61Y-vYqyqYL.jpg</URL>
+        <Height Units="pixels">482</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/61Y-vYqyqYL._SL30_.jpg</URL>
+            <Height Units="pixels">29</Height>
+            <Width Units="pixels">30</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/61Y-vYqyqYL._SL75_.jpg</URL>
+            <Height Units="pixels">72</Height>
+            <Width Units="pixels">75</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/61Y-vYqyqYL._SL75_.jpg</URL>
+            <Height Units="pixels">72</Height>
+            <Width Units="pixels">75</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/61Y-vYqyqYL._SL110_.jpg</URL>
+            <Height Units="pixels">106</Height>
+            <Width Units="pixels">110</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/61Y-vYqyqYL._SL160_.jpg</URL>
+            <Height Units="pixels">154</Height>
+            <Width Units="pixels">160</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/61Y-vYqyqYL.jpg</URL>
+            <Height Units="pixels">482</Height>
+            <Width Units="pixels">500</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>George R.R. Martin</Author>
+        <Binding>Mass Market Paperback</Binding>
+        <EAN>9780345535528</EAN>
+        <EANList>
+          <EANListElement>9780345535528</EANListElement>
+        </EANList>
+        <ISBN>0345535529</ISBN>
+        <Label>Bantam</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>4995</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$49.95</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Bantam</Manufacturer>
+        <NumberOfItems>5</NumberOfItems>
+        <NumberOfPages>5216</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">150</Height>
+          <Length Units="hundredths-inches">700</Length>
+          <Weight Units="hundredths-pounds">90</Weight>
+          <Width Units="hundredths-inches">420</Width>
+        </PackageDimensions>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2013-10-29</PublicationDate>
+        <Publisher>Bantam</Publisher>
+        <ReleaseDate>2013-10-29</ReleaseDate>
+        <Studio>Bantam</Studio>
+        <Title>George R. R. Martin's A Game of Thrones 5-Book Boxed Set (Song of Ice and Fire series): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons</Title>
+      </ItemAttributes>
+    </Item>
+    <Item>
+      <ASIN>055358202X</ASIN>
+      <DetailPageURL>http://www.amazon.com/Feast-Crows-Song-Fire-Thrones/dp/055358202X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D055358202X</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>http://www.amazon.com/Feast-Crows-Song-Fire-Thrones/dp/tech-data/055358202X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055358202X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D055358202X%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055358202X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D055358202X%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055358202X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D055358202X%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055358202X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>http://www.amazon.com/gp/pdp/taf/055358202X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055358202X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>http://www.amazon.com/review/product/055358202X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055358202X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>http://www.amazon.com/gp/offer-listing/055358202X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055358202X</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/51zfq5scxcL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">45</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/51zfq5scxcL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">96</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/51zfq5scxcL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">300</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/51zfq5scxcL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">18</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/51zfq5scxcL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">45</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/51zfq5scxcL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">45</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/51zfq5scxcL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">66</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/51zfq5scxcL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">96</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/51zfq5scxcL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">300</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/51edouvjy5L._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">18</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/51edouvjy5L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">46</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/51edouvjy5L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">46</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/51edouvjy5L._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">67</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/51edouvjy5L._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">97</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/51edouvjy5L.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">304</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>George R.R. Martin</Author>
+        <Binding>Mass Market Paperback</Binding>
+        <EAN>9780553582024</EAN>
+        <EANList>
+          <EANListElement>9780553582024</EANListElement>
+        </EANList>
+        <Feature>Compact Size: 4 3/16" x 6 7/8"</Feature>
+        <Feature>1,104 Pages</Feature>
+        <ISBN>055358202X</ISBN>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">669</Height>
+          <Length Units="hundredths-inches">150</Length>
+          <Weight Units="hundredths-pounds">487</Weight>
+          <Width Units="hundredths-inches">429</Width>
+        </ItemDimensions>
+        <Label>Bantam</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>999</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$9.99</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Bantam</Manufacturer>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>1104</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">73</Height>
+          <Length Units="hundredths-inches">843</Length>
+          <Weight Units="hundredths-pounds">79</Weight>
+          <Width Units="hundredths-inches">585</Width>
+        </PackageDimensions>
+        <PackageQuantity>1</PackageQuantity>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2006-09-26</PublicationDate>
+        <Publisher>Bantam</Publisher>
+        <ReleaseDate>2006-09-26</ReleaseDate>
+        <SKU>mon0000205875</SKU>
+        <Studio>Bantam</Studio>
+        <Title>A Feast for Crows: A Song of Ice and Fire (Game of Thrones)</Title>
+      </ItemAttributes>
+    </Item>
+    <Item>
+      <ASIN>055357342X</ASIN>
+      <DetailPageURL>http://www.amazon.com/Storm-Swords-Song-Fire-Book/dp/055357342X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D055357342X</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>http://www.amazon.com/Storm-Swords-Song-Fire-Book/dp/tech-data/055357342X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055357342X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D055357342X%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055357342X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D055357342X%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055357342X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D055357342X%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055357342X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>http://www.amazon.com/gp/pdp/taf/055357342X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055357342X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>http://www.amazon.com/review/product/055357342X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055357342X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>http://www.amazon.com/gp/offer-listing/055357342X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D055357342X</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/51JLfDOCDQL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">46</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/51JLfDOCDQL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">97</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/51JLfDOCDQL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">304</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/51JLfDOCDQL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">18</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/51JLfDOCDQL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">46</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/51JLfDOCDQL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">46</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/51JLfDOCDQL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">67</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/51JLfDOCDQL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">97</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/51JLfDOCDQL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">304</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/51aHp4ba2EL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">18</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/51aHp4ba2EL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">45</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/51aHp4ba2EL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">45</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/51aHp4ba2EL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">66</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/51aHp4ba2EL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">95</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/51aHp4ba2EL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">298</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>George R.R. Martin</Author>
+        <Binding>Mass Market Paperback</Binding>
+        <EAN>9780553573428</EAN>
+        <EANList>
+          <EANListElement>9780553573428</EANListElement>
+        </EANList>
+        <ISBN>055357342X</ISBN>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">701</Height>
+          <Length Units="hundredths-inches">164</Length>
+          <Weight Units="hundredths-pounds">70</Weight>
+          <Width Units="hundredths-inches">425</Width>
+        </ItemDimensions>
+        <Label>Bantam</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>999</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$9.99</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Bantam</Manufacturer>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>1216</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">173</Height>
+          <Length Units="hundredths-inches">693</Length>
+          <Weight Units="hundredths-pounds">115</Weight>
+          <Width Units="hundredths-inches">425</Width>
+        </PackageDimensions>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2003-03-04</PublicationDate>
+        <Publisher>Bantam</Publisher>
+        <ReleaseDate>2003-03-04</ReleaseDate>
+        <SKU>255080</SKU>
+        <Studio>Bantam</Studio>
+        <Title>A Storm of Swords (A Song of Ice and Fire, Book 3)</Title>
+      </ItemAttributes>
+    </Item>
+    <Item>
+      <ASIN>0345535421</ASIN>
+      <DetailPageURL>http://www.amazon.com/Clash-Kings-HBO-Tie-Edition/dp/0345535421%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0345535421</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>http://www.amazon.com/Clash-Kings-HBO-Tie-Edition/dp/tech-data/0345535421%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535421</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0345535421%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535421</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0345535421%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535421</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0345535421%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535421</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>http://www.amazon.com/gp/pdp/taf/0345535421%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535421</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>http://www.amazon.com/review/product/0345535421%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535421</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>http://www.amazon.com/gp/offer-listing/0345535421%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0345535421</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/512pvHV6z9L._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">45</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/512pvHV6z9L._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">97</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/512pvHV6z9L.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">303</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/512pvHV6z9L._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">18</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/512pvHV6z9L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">45</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/512pvHV6z9L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">45</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/512pvHV6z9L._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">67</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/512pvHV6z9L._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">97</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/512pvHV6z9L.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">303</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>George R.R. Martin</Author>
+        <Binding>Mass Market Paperback</Binding>
+        <EAN>9780345535429</EAN>
+        <EANList>
+          <EANListElement>9780345535429</EANListElement>
+        </EANList>
+        <Edition>Reissue</Edition>
+        <ISBN>0345535421</ISBN>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">681</Height>
+          <Length Units="hundredths-inches">189</Length>
+          <Weight Units="hundredths-pounds">100</Weight>
+          <Width Units="hundredths-inches">413</Width>
+        </ItemDimensions>
+        <Label>Bantam</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>999</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$9.99</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Bantam</Manufacturer>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>1040</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">180</Height>
+          <Length Units="hundredths-inches">700</Length>
+          <Weight Units="hundredths-pounds">110</Weight>
+          <Width Units="hundredths-inches">420</Width>
+        </PackageDimensions>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2012-03-06</PublicationDate>
+        <Publisher>Bantam</Publisher>
+        <ReleaseDate>2012-03-06</ReleaseDate>
+        <SKU>0345535421</SKU>
+        <Studio>Bantam</Studio>
+        <Title>A Clash of Kings (HBO Tie-in Edition): A Song of Ice and Fire: Book Two</Title>
+      </ItemAttributes>
+    </Item>
+    <Item>
+      <ASIN>B007VQVO60</ASIN>
+      <DetailPageURL>http://www.amazon.com/The-Marechal-Chronicles-Volumes-Fantasy-ebook/dp/B007VQVO60%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB007VQVO60</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>http://www.amazon.com/The-Marechal-Chronicles-Volumes-Fantasy-ebook/dp/tech-data/B007VQVO60%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007VQVO60</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB007VQVO60%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007VQVO60</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB007VQVO60%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007VQVO60</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB007VQVO60%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007VQVO60</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>http://www.amazon.com/gp/pdp/taf/B007VQVO60%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007VQVO60</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>http://www.amazon.com/review/product/B007VQVO60%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007VQVO60</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>http://www.amazon.com/gp/offer-listing/B007VQVO60%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB007VQVO60</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/51Mf5yp3dIL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">50</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/51Mf5yp3dIL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">107</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/51Mf5yp3dIL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">333</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/51Mf5yp3dIL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">20</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/51Mf5yp3dIL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">50</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/51Mf5yp3dIL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">50</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/51Mf5yp3dIL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">73</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/51Mf5yp3dIL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">107</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/51Mf5yp3dIL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">333</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>Aim&#xE9;lie Aames</Author>
+        <Binding>Kindle Edition</Binding>
+        <Format>Kindle eBook</Format>
+        <IsAdultProduct>0</IsAdultProduct>
+        <Label>Aimelie Aames</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+        </Languages>
+        <Manufacturer>Aimelie Aames</Manufacturer>
+        <NumberOfPages>141</NumberOfPages>
+        <ProductGroup>eBooks</ProductGroup>
+        <ProductTypeName>ABIS_EBOOKS</ProductTypeName>
+        <PublicationDate>2012-06-25</PublicationDate>
+        <Publisher>Aimelie Aames</Publisher>
+        <ReleaseDate>2012-06-25</ReleaseDate>
+        <Studio>Aimelie Aames</Studio>
+        <Title>The Marechal Chronicles: Volumes I, II, and III (An Erotic Fantasy Tale)</Title>
+      </ItemAttributes>
+    </Item>
+    <Item>
+      <ASIN>0440423236</ASIN>
+      <DetailPageURL>http://www.amazon.com/Game-Thrones-Graphic-Novel-Volume/dp/0440423236%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0440423236</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>http://www.amazon.com/Game-Thrones-Graphic-Novel-Volume/dp/tech-data/0440423236%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0440423236</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0440423236%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0440423236</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0440423236%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0440423236</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0440423236%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0440423236</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>http://www.amazon.com/gp/pdp/taf/0440423236%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0440423236</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>http://www.amazon.com/review/product/0440423236%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0440423236</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>http://www.amazon.com/gp/offer-listing/0440423236%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0440423236</URL>
+        </ItemLink>
+      </ItemLinks>
+      <ItemAttributes>
+        <Author>George R.R. Martin</Author>
+        <Binding>Hardcover</Binding>
+        <Creator Role="Adapter">Daniel Abraham</Creator>
+        <Creator Role="Illustrator">Tommy Patterson</Creator>
+        <EAN>9780440423232</EAN>
+        <EANList>
+          <EANListElement>9780440423232</EANListElement>
+        </EANList>
+        <ISBN>0440423236</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">0</Height>
+          <Length Units="hundredths-inches">0</Length>
+          <Weight Units="hundredths-pounds">98</Weight>
+          <Width Units="hundredths-inches">0</Width>
+        </ItemDimensions>
+        <Label>Bantam</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>2500</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$25.00</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Bantam</Manufacturer>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>240</NumberOfPages>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2014-03-11</PublicationDate>
+        <Publisher>Bantam</Publisher>
+        <ReleaseDate>2014-03-11</ReleaseDate>
+        <Studio>Bantam</Studio>
+        <Title>A Game of Thrones: The Graphic Novel: Volume Three</Title>
+        <TradeInValue>
+          <Amount>435</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$4.35</FormattedPrice>
+        </TradeInValue>
+      </ItemAttributes>
+    </Item>
+    <Item>
+      <ASIN>044042321X</ASIN>
+      <DetailPageURL>http://www.amazon.com/Game-Thrones-Graphic-Novel-Volume/dp/044042321X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D044042321X</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>http://www.amazon.com/Game-Thrones-Graphic-Novel-Volume/dp/tech-data/044042321X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D044042321X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D044042321X%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D044042321X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D044042321X%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D044042321X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D044042321X%26SubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D044042321X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>http://www.amazon.com/gp/pdp/taf/044042321X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D044042321X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>http://www.amazon.com/review/product/044042321X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D044042321X</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>http://www.amazon.com/gp/offer-listing/044042321X%3FSubscriptionId%3DAKIAISKMDJ5IH3UVK4OQ%26tag%3Ddpsimmons-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D044042321X</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>http://ecx.images-amazon.com/images/I/51yYrkksw9L._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">48</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>http://ecx.images-amazon.com/images/I/51yYrkksw9L._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">103</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>http://ecx.images-amazon.com/images/I/51yYrkksw9L.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">323</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/51yYrkksw9L._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">19</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/51yYrkksw9L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">48</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/51yYrkksw9L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">48</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/51yYrkksw9L._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">71</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/51yYrkksw9L._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">103</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/51yYrkksw9L.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">323</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>http://ecx.images-amazon.com/images/I/51jZojtfzmL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">19</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>http://ecx.images-amazon.com/images/I/51jZojtfzmL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">48</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>http://ecx.images-amazon.com/images/I/51jZojtfzmL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">48</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>http://ecx.images-amazon.com/images/I/51jZojtfzmL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">71</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>http://ecx.images-amazon.com/images/I/51jZojtfzmL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">103</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>http://ecx.images-amazon.com/images/I/51jZojtfzmL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">321</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>George R.R. Martin</Author>
+        <Binding>Hardcover</Binding>
+        <Brand>Bantam</Brand>
+        <Creator Role="Adapter">Daniel Abraham</Creator>
+        <EAN>9780440423218</EAN>
+        <EANList>
+          <EANListElement>9780440423218</EANListElement>
+        </EANList>
+        <Edition>1St Edition</Edition>
+        <ISBN>9780440423218</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">1063</Height>
+          <Length Units="hundredths-inches">695</Length>
+          <Weight Units="hundredths-pounds">160</Weight>
+          <Width Units="hundredths-inches">91</Width>
+        </ItemDimensions>
+        <Label>Bantam</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>2500</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$25.00</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Bantam</Manufacturer>
+        <MPN>9780440423218</MPN>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>240</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">100</Height>
+          <Length Units="hundredths-inches">1030</Length>
+          <Weight Units="hundredths-pounds">155</Weight>
+          <Width Units="hundredths-inches">690</Width>
+        </PackageDimensions>
+        <PartNumber>9780440423218</PartNumber>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2012-03-27</PublicationDate>
+        <Publisher>Bantam</Publisher>
+        <ReleaseDate>2012-03-27</ReleaseDate>
+        <SKU>ACOMMP2_book_usedverygood_044042321X</SKU>
+        <Studio>Bantam</Studio>
+        <Title>A Game of Thrones: The Graphic Novel: Volume One</Title>
+        <TradeInValue>
+          <Amount>413</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$4.13</FormattedPrice>
+        </TradeInValue>
+      </ItemAttributes>
+    </Item>
+  </Items>
+</ItemSearchResponse>
