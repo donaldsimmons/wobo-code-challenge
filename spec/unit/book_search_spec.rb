@@ -9,16 +9,9 @@ describe BookSearch do
 
 	it { should respond_to :search }
 
-	it "should return data from API" do
-		api_info.should_receive(:get) do |api_params|
-			expect { api_params[:query] }.to eq({
-				Operation:     "ItemSearch",
-				SearchIndex:   "Books",
-				Keywords:      "game of thrones",
-				ResponseGroup: "ItemAttributes,Images"
-			})
-			api_response
+	describe "#search" do
+		it "should return xml" do
+			expect { subject.search(:api_info) }.to eq(api_response)
 		end
-		subject.search("game of thrones")
 	end
 end
