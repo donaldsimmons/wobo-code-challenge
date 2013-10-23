@@ -13,7 +13,7 @@ class BookSearch
 			Keywords:    search_keyword,
 			ResponseGroup: "ItemAttributes,Images"
 		}
-		parse_api_response @api_info.get(query: search_params)
+		@api_info.get(query: search_params)
 	end
 
 	private
