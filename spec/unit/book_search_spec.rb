@@ -11,7 +11,8 @@ describe BookSearch do
 
 	describe "#search" do
 		it "should return xml" do
-			expect { subject.search(:api_info) }.to eq(api_response)
+			allow(api_info).to receive(:get).and_return(api_body)
+			expect { subject.search("game of thrones") }.to eq(api_body)
 		end
 	end
 end
