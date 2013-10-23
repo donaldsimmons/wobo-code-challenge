@@ -17,7 +17,10 @@ class Application
 	def response
 		case @request.path
 			when "/"      then Rack::Response.new(render("index.html.haml"))
-			when "/books" 
+			when "/books"
+			  book_search = BookSearch.new(@api_object)
+				keyword = params[:q]
+				book_search.search(keyword)	
 				Rack::Response.new(render("books.html.haml"))
 			else Rack::Response.new("None Found", 404)
 		end
