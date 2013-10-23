@@ -1,5 +1,26 @@
 <?xml version="1.0"?>
 <ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+  <OperationRequest>
+    <HTTPHeaders>
+      <Header Name="UserAgent" Value="Jeff/0.7.2 (Language=Ruby; Treys-iMac.local)"/>
+    </HTTPHeaders>
+    <RequestId>346b9795-a87b-443d-90da-1c4c0ef854e5</RequestId>
+    <Arguments>
+      <Argument Name="Operation" Value="ItemSearch"/>
+      <Argument Name="Service" Value="AWSECommerceService"/>
+      <Argument Name="AssociateTag" Value="dpsimmons-20"/>
+      <Argument Name="Version" Value="2011-08-01"/>
+      <Argument Name="Keywords" Value="game of thrones"/>
+      <Argument Name="SignatureMethod" Value="HmacSHA256"/>
+      <Argument Name="SearchIndex" Value="Books"/>
+      <Argument Name="SignatureVersion" Value="2"/>
+      <Argument Name="Signature" Value="y9denU3xHH6izSXKzZAS6CUVdks48UjdoT3uvjymwYw="/>
+      <Argument Name="AWSAccessKeyId" Value="AKIAISKMDJ5IH3UVK4OQ"/>
+      <Argument Name="Timestamp" Value="2013-10-22T14:41:09Z"/>
+      <Argument Name="ResponseGroup" Value="ItemAttributes,Images"/>
+    </Arguments>
+    <RequestProcessingTime>0.2041010000000000</RequestProcessingTime>
+  </OperationRequest>
   <Items>
     <Request>
       <IsValid>True</IsValid>
