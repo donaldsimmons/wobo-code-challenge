@@ -19,6 +19,7 @@ GEM
     mime-types (1.25)
     mini_portile (0.5.1)
     multi_json (1.8.2)
+    multi_xml (0.5.5)
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
     rack (1.5.2)
@@ -51,6 +52,7 @@ PLATFORMS
 DEPENDENCIES
   capybara (= 2.1.0)
   haml
+  multi_xml
   rack (~> 1.5.2)
   rspec (~> 2.14.1)
   selenium-webdriver (= 2.35.1)
