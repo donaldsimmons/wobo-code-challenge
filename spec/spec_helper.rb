@@ -2,9 +2,9 @@ require "rspec"
 require "rack"
 require "capybara/rspec"
 require "capybara/dsl"
-require File.expand_path("../app/application", File.dirname(__FILE__))
+require File.expand_path("../app/controllers/application_controller", File.dirname(__FILE__))
 
-Capybara.app = Application
+Capybara.app = ApplicationController
 Capybara.default_driver = :selenium
 
 RSpec.configure do |config|
