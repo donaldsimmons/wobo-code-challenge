@@ -1,5 +1,6 @@
 require "haml"
 require "vacuum"
+require "./app/controllers/searches_controller"
 
 class ApplicationController
 	def self.call(env)
@@ -19,13 +20,16 @@ class ApplicationController
 		case @request.path
 			when "/"      then Rack::Response.new(render("index.html.haml"))
 			when "/books" then
-				Rack::Response.new(render("books.html.haml"))
+				book_search = SearchesController.new(@api_object)
+				title = @request.params["book_title"]
+				results = book_search.search(title)
+				Rack::Response.new(render("books.html.haml", results))
 			else Rack::Response.new("None Found", 404)
 		end
 	end
 
-	def render(template)
-		path = File.expand_path("../views/#{template}", File.dirname(__FILE__))
-		Haml::Engine.new(File.read(path)).render
+	def render(template, template_data = {})
+		path = File.expand_path("../../views/#{template}", __FILE__)
+		Haml::Engine.new(File.read(path)).render(Object.new, data: template_data) 
 	end
 end
