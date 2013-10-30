@@ -7,10 +7,10 @@ class SearchesController
 
 	def search(search_keyword)
 		search_params = {
-		 	"Operation" => "ItemSearch",
-			"SearchIndex" => "Books",
-			"Keywords" => search_keyword,
-			"ResponseGroup" => "ItemAttributes,Images"
+		 	Operation: "ItemSearch",
+			SearchIndex: "Books",
+			Keywords: search_keyword,
+			ResponseGroup: "ItemAttributes,Images"
 		}	
 		parse_api_response @api_object.get(query: search_params)
 	end

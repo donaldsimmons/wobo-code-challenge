@@ -19,10 +19,10 @@ describe SearchesController do
 
 		it "returns array of matched items" do
 			params = {
-				"Operation" => "ItemSearch",
-				"SearchIndex" => "Books",
-				"Keywords" => search_query,
-				"ResponseGroup" => "ItemAttributes,Images"
+				Operation: "ItemSearch",
+				SearchIndex: "Books",
+				Keywords: search_query,
+				ResponseGroup: "ItemAttributes,Images"
 			}
 			api_object.stub(:get).with(query: params).and_return(api_response)
 			expect(subject.search("game of thrones")).to be_an_instance_of(Array)
