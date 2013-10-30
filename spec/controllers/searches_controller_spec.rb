@@ -13,17 +13,18 @@ describe SearchesController do
 	describe "#search" do
 		let(:api_object)   { Vacuum.new }
 		let(:api_body)		 { File.read(File.join(File.dirname(__FILE__), "../support/api_response.xml")) }
+		let(:api_response) { double("response object", body: api_body) }
 		let(:search_query) { "game of thrones" }
 		subject { @searches_controller }
 
 		it "returns array of matched items" do
 			params = {
-				Operation: "ItemSearch",
-				SearchIndex: "Books",
-				Keywords: search_query,
-				ResponseGroup: "ItemAttributes,Images"
+				"Operation" => "ItemSearch",
+				"SearchIndex" => "Books",
+				"Keywords" => search_query,
+				"ResponseGroup" => "ItemAttributes,Images"
 			}
-			api_object.stub(:get).with(query: params).and_return(api_body)
+			api_object.stub(:get).with(query: params).and_return(api_response)
 			expect(subject.search("game of thrones")).to be_an_instance_of(Array)
 		end
 	end
