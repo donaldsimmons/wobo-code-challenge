@@ -10,9 +10,9 @@ class ApplicationController
 	def initialize(env)
 		@request = Rack::Request.new(env)
 		@api_object = Vacuum.new.configure({
-	    aws_access_key_id:     "AKIAISKMDJ5IH3UVK4OQ",
-			aws_secret_access_key: "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",
-			associate_tag: 				 "dpsimmons-20"	
+	    "aws_access_key_id" 		=> "AKIAISKMDJ5IH3UVK4OQ",
+			"aws_secret_access_key" => "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",
+		  "associate_tag"				  => "dpsimmons-20"	
 		})
 	end  
 
@@ -21,8 +21,7 @@ class ApplicationController
 			when "/"      then Rack::Response.new(render("index.html.haml"))
 			when "/books" then
 				book_search = SearchesController.new(@api_object)
-				title = @request.params["book_title"]
-				results = book_search.search(title)
+				results = book_search.search(@request.params["book_title"])
 				Rack::Response.new(render("books.html.haml", results))
 			else Rack::Response.new("None Found", 404)
 		end
