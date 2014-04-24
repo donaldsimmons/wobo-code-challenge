@@ -10,10 +10,7 @@ class ApplicationController
 	def initialize(env)
 		@request = Rack::Request.new(env)
 		@api_object = Vacuum.new.configure({
-	    "aws_access_key_id" 		=> "AKIAISKMDJ5IH3UVK4OQ",
-			"aws_secret_access_key" => "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",
-		  "associate_tag"				  => "dpsimmons-20"	
-		})
+	    })
 	end  
 
 	def response
